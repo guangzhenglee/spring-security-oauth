@@ -1,0 +1,4 @@
+rootProject.name = 'spring-secutiry-oauth2'
+include 'authorization'
+include 'resource'
+
